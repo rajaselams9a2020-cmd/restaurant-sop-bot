@@ -1,0 +1,51 @@
+[DOCUMENT: Kitchen Closing SOP]
+[ROLE: Chef]
+[VERSION: v1]
+
+1. Turn off gas stove
+2. Clean all utensils
+3. Store food in fridge
+4. Sanitize all surfaces
+
+-----------------------------------
+
+[DOCUMENT: Table Cleaning SOP]
+[ROLE: Cleaner]
+[VERSION: v1]
+
+1. Remove used plates
+2. Wipe table with cloth
+3. Spray sanitizer
+4. Arrange chairs properly
+
+-----------------------------------
+
+[DOCUMENT: Safety Rules]
+[ROLE: All Staff]
+[VERSION: v1]
+
+1. Wear gloves in kitchen
+2. Keep floor dry
+3. Report accidents immediately
+
+-----------------------------------
+
+[DOCUMENT: Cash Counter SOP]
+[ROLE: Cashier]
+[VERSION: v1]
+
+1. Count total cash
+2. Match billing records
+3. Lock cash drawer
+4. Submit daily report
+
+-----------------------------------
+
+[DOCUMENT: Customer Service SOP]
+[ROLE: Waiter]
+[VERSION: v1]
+
+1. Greet customers politely
+2. Take orders clearly
+3. Handle complaints calmly
+4. Thank customer after service
